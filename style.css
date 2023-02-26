@@ -1,13 +1,16 @@
+/* Entire Body of code */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* this is the color background for the entire page */
 body {
     background-color: #d9dcd6;
 }
 
+/* these are the header styles for the webpage */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -41,15 +44,18 @@ body {
     margin-left: 25px;
 }
 
+/* these are my link styles */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* p styles*/
 p {
     font-size: 16px;
 }
 
+/* this is what is displaying the big image on the page */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,6 +65,7 @@ p {
     background-position: center;
 }
 
+/*these are all of the class styles (.) */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -75,6 +82,7 @@ p {
     margin-left: 20px;
 }
 
+/* these are all the benefit styles */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -134,6 +142,7 @@ p {
     max-width: 150px;
 }
 
+/* these are the section styles */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -188,6 +197,7 @@ p {
     font-size: 36px;
 }
 
+/*this is the style for the footer */
 .footer {
     padding: 30px;
     clear: both;
