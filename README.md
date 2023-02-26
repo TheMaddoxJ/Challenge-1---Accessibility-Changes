@@ -1,4 +1,4 @@
-# Challenge-1---Accessibility-Changes
+# Challenge-1-Accessibility-Changes
 This is a repo for all accessibility changes made to the Horiseon Challenge.
 In this challenge I have added changes to the style.css and index.htm files. 
 The changes added have made it so the Horiseon web page is more accessible and semantic.
