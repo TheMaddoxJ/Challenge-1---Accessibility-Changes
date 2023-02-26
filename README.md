@@ -24,3 +24,10 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
+
+----------
+
+![Horiseon Finalized Screenshot](https://user-images.githubusercontent.com/123782105/221439182-9ddbdf06-100a-45bf-95f9-fe91ae2ed718.png)
+
+
+URL: file:///C:/Users/maddo/OneDrive/Desktop/Bootcamp/Week%201/02-16%20-%20Activities%20Folder/01-HTML-Git-CSS/02-Challenge/Develop/index.html#social-media-marketing
